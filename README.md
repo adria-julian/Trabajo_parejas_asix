@@ -4,4 +4,6 @@
 # Alex Gutierrez
 hatim zbakh
 Arnau Bel
+Antonio Alaminos
+DavidInfiel
 
